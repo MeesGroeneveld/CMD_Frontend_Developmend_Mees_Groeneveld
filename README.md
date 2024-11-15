@@ -33,7 +33,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Je website
 
 <details open>
-  <summary>[uitwerken voor kick-off werkgroep](https://mocomuseum.com/nl/tentoonstellingen/amsterdam?bg_source=ga&bg_campaign=1471558777&bg_kw=aud-2091116760619:kwd-318545806002-mi--pi--ppi-&bg_source_id=681650735747&gad_source=1&gclid=Cj0KCQiA_9u5BhCUARIsABbMSPsOpomVJlQlkmlo4-0HWjcedUQhC6SCN4nlUgMzW1W9i7qzTZTI5BgaAjgEEALw_wcB) </summary>
+  <summary>[uitwerken voor kick-off werkgroep][https://mocomuseum.com/nl/tentoonstellingen/amsterdam?bg_source=ga&bg_campaign=1471558777&bg_kw=aud-2091116760619:kwd-318545806002-mi--pi--ppi-&bg_source_id=681650735747&gad_source=1&gclid=Cj0KCQiA_9u5BhCUARIsABbMSPsOpomVJlQlkmlo4-0HWjcedUQhC6SCN4nlUgMzW1W9i7qzTZTI5BgaAjgEEALw_wcB](https://www.celticwebmerchant.com/nl/) </summary>
 
   ### Je opdracht:
   link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
