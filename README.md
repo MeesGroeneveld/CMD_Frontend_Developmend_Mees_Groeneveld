@@ -13,16 +13,20 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Jij
 
 <details open>
-  <summary>uitwerken voor kick-off werkgroep</summary>
+  <summary>
+    Mees Groeneveld
+    500923265
+    Klas 205
+  </summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+  Mees Groeneveld
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  Rood
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+  Responive
  
 </details>
 
