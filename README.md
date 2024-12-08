@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+  Mees Groeneveld
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  blauw
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+  surface plane
  
 </details>
 
@@ -33,18 +33,18 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Je website
 
 <details open>
-  <summary>uitwerken voor kick-off werkgroep</summary>
+  <summary>Ik moet een website namaken met mijn eigen kennis</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  (https://www.celticwebmerchant.com/nl/)
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/celtic1.jpg" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/celtic2.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
@@ -53,10 +53,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Toegankelijkheidstest 1/2 (week 1)
 
 <details>
-  <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
+  <summary>wwe moesten onze website testen op hoe goed mensen met een beperking hem konden gebruiken<sup>e</sup> werkgroep </summary>
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+
+  De website zelf had weinig goed werkende knoppen zonder de muis te gebruiken en de screenreader kwam niet verder dan de google revieuws.
 
 </details>
 
@@ -68,7 +70,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/celtic_breakdown.jpg" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
@@ -88,7 +90,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  De Html is moeilijk op te stellen ik heb elementen die ik nog nooit heb gebruikt of gemaakt op mijn lijst laat staan dat ik goed weet hoe dit in en onder eklaar gezet moet worden.
 
 
   ### Agenda voor meeting
@@ -121,7 +123,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik heb nog veel te doen en het bijhouden van zowel css en code is moielijk gelukig heb ik nu de colapsable aan de praat gekregen.
 
 
   ### Agenda voor meeting
@@ -154,7 +156,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+  Mijn website heeft nog veel te veel aan te passen, niks werkt zowel screen reader als de mouseles navigatie
 
 </details>
 
@@ -168,7 +170,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+ aaaaah ik loop te veel achter dus ik moet het gaan inhalen ik heb de basis structuur nu een soort van maar de carusel werkt niet en de website is moeilijk in elkaar te css'en ik had de html eerst voldedig moeten maken voordat ik aan mijn css ging want nu heb ik echt moeite met overzicht.
 
 
   ### Agenda voor meeting
@@ -205,13 +207,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+  ik heb geleerd dat ik echt mijn html eerst moet maken om overzicht te houden over mijn css later want als ik het tegelijkertijd doe valt alles in de soep. 
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+  de css werkt nog niet en hete is niet semanties correct ook heb ik maaar 1 pagina zonder extra toevoegingen, ook heb ik niet een een normale navigatie met een hmburger menu
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
@@ -229,8 +231,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+  2. https://css-tricks.com/snippets/css/complete-guide-grid/#aa-introduction-to-css-grid
+  3. https://developer.mozilla.org/en-US/docs/Web/CSS/flex-wrap
+  4. https://codepen.io/shooft/pen/mdBOZLz
+  5. https://www.shecodes.io/athena/9925-prevent-horizontal-scroll-on-smaller-devices-with-css#google_vignette 
+  6. notebook van vorig coderen lessen jaar 1
 
 </details>
